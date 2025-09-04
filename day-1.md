@@ -2,4 +2,6 @@
 # Daily Learning
 
 <h2> 
-Morning Review
+## Morning Planning 
+<h2>
+## Review
